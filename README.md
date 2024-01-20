@@ -5,5 +5,5 @@ Website for Software Company
 3.Services
 4.Internship
 5.Contact
-To apply for Internship via Website
-To record your Feedback
+-----To apply for Internship via Website
+-----To record your Feedback
